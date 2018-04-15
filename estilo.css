@@ -4,8 +4,8 @@
 }
 
 body{
-	background:rgba(028,028,028);
-	color:rgba(028,028,028);
+	background:rgba(0,0,0,1);
+	color:rgba(25,25,25,1);
 	font-family: 'Poppins', sans-serif;
 	font-weight:300;
 }
@@ -16,8 +16,8 @@ h1, h2, h3, h4{
 }
 
 h1{
-	letter-spacing:0.5em;
-	color:rgba(028,028,028,0.9);
+	letter-spacing:0.1em;
+	color:rgba(255,255,255,0.9);
 	text-shadow: 2px 2px 0 #999;
 	text-align:center;
 }
@@ -31,7 +31,7 @@ h2{
 }
 
 h3{
-	letter-spacing:0.5em;
+	letter-spacing:0.2em;
 	color:rgba(0,0,0,.75);
 	padding:2em 0 0.6em 0;
 	text-shadow: 2px 2px 0 #ccc;
@@ -216,4 +216,3 @@ footer hr{
 	width:20%;
 	}
 }
-
